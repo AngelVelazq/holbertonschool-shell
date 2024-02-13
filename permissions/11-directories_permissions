@@ -1,1 +1,1 @@
-chmod -r ugo+x ./*
+chmod -R ugo+x ./*
