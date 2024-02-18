@@ -1,3 +1,2 @@
 #!/bin/bash
-expo
-rt PATH="$HOME/action:$PATH"
+export PATH="$HOME/action:$PATH"
